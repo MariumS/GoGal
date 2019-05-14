@@ -1,4 +1,5 @@
 # GoGal
+This concept was developed for the HackItTogether Women's Hackathon held at Landers College for Women in February 2019, and ended up [winning 7th place](https://devpost.com/software/galgo). 
 GoGal is a concept for a mobile app to link womxn with other female-identifying travel buddies for similar short trips.
 
 # Inspiration
